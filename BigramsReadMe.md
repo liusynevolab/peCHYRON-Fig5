@@ -1,6 +1,6 @@
 # Guide for Bigram Frequency Analysis
 
-This is a step by step guide for performing the bigram frequency analysis in Figure 5C of 'Open-ended molecular recording of sequential cellular events into DNA'. Note that this analysis was performed on a Apple Silicon (ARM-based) MacBook -- some  
+This is a step by step guide for performing the bigram frequency analysis in Figure 5b, Extended Data Figure 7c, and Extended Data Figures 8-9 of 'Open-ended molecular recording of sequential cellular events into DNA'. Note that this analysis was performed on a Apple Silicon (ARM-based) MacBook. 
 
 ## Setup
 
@@ -72,7 +72,7 @@ At these lines:
 6) In your working directory verify that the plot files were created and dataframes are saved to .csv:
 `YYYYMMDD_PER71-log2bigrambarplot_ClusterXY-YX_R#.pdf; YYYYMMDD_PER71-log2bigrambarplot_ClusterXY-YX_R#.png; YYYYMMDD_PER71-ClusteredDataTable.csv; YYYYMMDD_PER71-AllColumns_ClusteredDataTable.csv`
 
-7) In a terminal window, run the `PER71_TransfectionHeatmaps.py`. This script generates plots for Extended data figure 7C, comparing the frequency of unigrams in bigrams for two given expected orders of induction (RPUI, URSP):
+7) In a terminal window, run the `PER71_TransfectionHeatmaps.py`. This script generates plots for Extended data figure 7c, comparing the frequency of unigrams in bigrams for two given expected orders of induction (RPUI, URSP):
 `username$ python PER71_TransfectionHeatmaps.py`
 
 8) In your working directory verify that the plot files were created and dataframes are saved to .csv:
