@@ -1,6 +1,6 @@
 # Guide for Bigram Frequency Analysis
 
-This is a step by step guide for performing the bigram frequency analysis in Figure 5b, Extended Data Figure 7c, and Extended Data Figures 8-9 of 'Open-ended molecular recording of sequential cellular events into DNA'. Note that this analysis was performed on a Apple Silicon (ARM-based) MacBook. 
+This is a step by step guide for performing the bigram frequency analysis in Figure 5b, Extended Data Figures 8-9, and Supplementary Figure 6a of 'Open-ended molecular recording of sequential cellular events into DNA'. Note that this analysis was performed on a Apple Silicon (ARM-based) MacBook. 
 
 ## Setup
 
